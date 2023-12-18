@@ -1,0 +1,12 @@
+commands folder
+misc/help.rs - i think yes
+misc/ping.rs - lgtm?
+owner/ - i dont fucking know
+
+client.rs - lgtm
+data.rs - no sqlx and LevelFilter
+error_handler.rs - needs log, edited
+handlers.rs - edited, needs sqlx and log
+main.rs - commented the log lines
+types.rs - i dont understand it but sure
+utils.rs - done
